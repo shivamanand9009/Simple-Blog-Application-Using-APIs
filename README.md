@@ -42,11 +42,11 @@ This project is a basic blog application that utilizes public APIs to display a 
    npm start
 
 ## Folder Structure
-  src/ - Main source code directory
-  components/ - React components (HomePage, PostDetails)
-  store/ - Redux store setup and slices for state management
-  App.js - Main app component with routing
-  index.js - Entry point of the app
+  - src/ - Main source code directory
+  - components/ - React components (HomePage, PostDetails)
+  - store/ - Redux store setup and slices for state management
+  - App.js - Main app component with routing
+  - index.js - Entry point of the app
 
 ## Usage
     Home Page
