@@ -35,8 +35,10 @@ This project is a basic blog application that utilizes public APIs to display a 
    git clone https://github.com/yourusername/simple-blog-app.git
    cd simple-blog-app
 2. **Install Dependencies**
+   ```bash 
    npm install
-3. **Run the Application**
+4. **Run the Application**
+    ```bash 
    npm start
 
 ## Folder Structure
